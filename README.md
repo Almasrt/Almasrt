@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alma</h1>
 <h3 align="center">A Software Engineering and Management Student of 5th year at Polytech Montpellier</h3>
+<img align="right" alt="web development GIF" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasrt&label=Profile%20views&color=0e75b6&style=flat" alt="almasrt" /> </p>
 
