@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasrt&label=Profile%20views&color=0e75b6&style=flat" alt="almasrt" /> </p>
 
-- 🔭 I’m currently working on **Reptalize Project at Lizard Global**
+- 🔭 I’m currently working on **Recruitment app project**
 
-- 🌱 I’m currently learning **ReactJs, ExpressJs and Apollo GraphQL**
+- 🌱 I’m currently learning **React Native, Docker and SpringBoot**
 
 - 🤔 Im interested in learning about **Typescript**
 
